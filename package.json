@@ -1,0 +1,18 @@
+{
+  "name": "typescript-enterprise-boilerplate",
+  "version": "0.0.1",
+  "description": "Basic typescript project for both front and backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular2": "^2.0.0-alpha.45",
+    "express": "^4.13.3",
+    "intern": "^3.0.6",
+    "live-server": "^0.8.2",
+    "typescript": "^1.6.2"
+  }
+}
